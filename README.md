@@ -1,29 +1,34 @@
 [![MasterHead](https://komarev.com/ghpvc/?username=tonimurfid&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/tonimurfid)
 
 # Hi 👋, I'm Fatoni Murfid Syaafii
-### A Computer Science student at Brawijaya University
+### A passionate AI/ML Engineer from Indonesia
 
-- 🔭 I’m currently working on **Data Science and AI projects**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Analysis**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/tonimurfid)
-- 💬 Ask me about **Data Science, Machine Learning, and AI**
-- 📫 Reach me at **fatonimurfids@gmail.com**
-- 📄 Know more about me on [LinkedIn](https://id.linkedin.com/in/fatoni-murfid-syaafii)
-- ⚡ Fun fact: **I enjoy exploring new technologies and applying them to real-world problems**
+- 🔭 I’m currently working on **Auto License Plate Recognition and Chatbot System**
+- 🌱 I’m currently learning **Multimodal, Agentic AI, Retrieval System, Object Detection, Other NLP Task**
+- 👯 I’m looking to collaborate on **AI/ML Engineering Project**
+- 👨‍💻 All of my projects are available at [portfolio.tonimurfid.xyz](https://portfolio.tonimurfid.xyz)
+- 💬 Ask me about **AI/ML Topics**
+- 📫 Reach me at **fatonimurfids@gmail.com, Instagram: @tonimurf_**
+- ⚡ Fun fact: **I'm a Locked-In type of person :D**
 
 ## Connect with me:
 [![LinkedIn](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)](https://linkedin.com/in/fatoni-murfid-syaafii)
-[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/your_instagram_username)
+[![Instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg)](https://instagram.com/tonimurf_)
 
 ## Languages and Tools:
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="30" height="30"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="30" height="30"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="30" height="30"/>
   <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="30" height="30"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="30" height="30"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="30" height="30"/>
 </p>
 
 ## GitHub Stats:

@@ -4,7 +4,7 @@
 ### A Computer Science student at Brawijaya University
 
 - 🔭 I’m currently working on **Data Science and AI projects**
-- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Science**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and Data Analysis**
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/tonimurfid)
 - 💬 Ask me about **Data Science, Machine Learning, and AI**
 - 📫 Reach me at **fatonimurfids@gmail.com**

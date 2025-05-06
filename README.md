@@ -3,8 +3,8 @@
 # Hi 👋, I'm Fatoni Murfid Syaafii
 ### A passionate AI/ML Engineer from Indonesia
 
-- 🔭 I’m currently working on **Auto License Plate Recognition and Chatbot System**
-- 🌱 I’m currently learning **Multimodal, Agentic AI, Retrieval System, Object Detection, Other NLP Task**
+- 🔭 I’m currently working on **several Computer Vision project**
+- 🌱 I’m currently learning ** Retrieval System, Object Detection, Other NLP Task**
 - 👯 I’m looking to collaborate on **AI/ML Engineering Project**
 - 👨‍💻 All of my projects are available at [portfolio.tonimurfid.xyz](https://portfolio.tonimurfid.xyz)
 - 💬 Ask me about **AI/ML Topics**
